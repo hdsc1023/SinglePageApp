@@ -18,9 +18,10 @@
   "author": "Daniel Saldaña C",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "ejs": "^3.1.5",
-    "express": "^4.17.1",
-    "mongoose": "^5.11.8"
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.6",
+    "mpath": "^0.8.1"
   }
 }
